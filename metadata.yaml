@@ -1,4 +1,8 @@
 _repo: Report-of-Governor-s-Representatives-for-California-at-Alaska-Yukon-Pacific-Exposition-Commis__47657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47657-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Filcher, J. A.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44415'
     url: http://www.gutenberg.org/2009/agents/44415
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47657#Report-of-Governor-s-Representatives-for-California-at-Alaska-Yukon-Pacific-Exposition-Commis_
 gutenberg_issued: '2014-12-13'
 gutenberg_type: Text
 identifiers:
