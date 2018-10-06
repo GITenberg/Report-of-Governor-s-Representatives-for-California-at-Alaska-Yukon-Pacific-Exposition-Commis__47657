@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Report of Governor's Representatives for California at Alaska-Yukon-Pacific
   Exposition Commission
 url: http://www.gutenberg.org/ebooks/47657
